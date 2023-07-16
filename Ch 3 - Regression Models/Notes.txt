@@ -1,0 +1,4 @@
+# #Linear Regression assumption
+# all variables are continuos numeric
+# data is free of missing values and outliers
+# residuals are normally distributed
