@@ -2,3 +2,12 @@
 # all variables are continuos numeric
 # data is free of missing values and outliers
 # residuals are normally distributed
+
+# Logistic regression is a simple ml method you can use to predict the value
+# of a numer categorical variablse based on its
+# relatinship with predictor values
+# Logistric regression asumptions:
+# data is free of missing values
+# predicant variable is binary
+# all predictors are independent of each other
+# at least 50 observations per predictor variable
